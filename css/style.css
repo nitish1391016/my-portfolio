@@ -1,0 +1,20 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+.about-me{
+    padding-top:50px; 
+    padding-bottom: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.introduction{
+    height: 100px;
+    width: 100px;
+    color: white;
+}
+.make-round{
+    border-radius: 2%;
+}

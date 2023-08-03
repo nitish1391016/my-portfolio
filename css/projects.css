@@ -1,0 +1,23 @@
+body{
+    width: 100%;
+    margin: 0;
+}
+
+.projects{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFC6AC;
+    flex-direction: column;
+}  
+.projects  ul{
+    background-color: #FFF6DC !important;
+    margin: 0 30px;
+    border-radius: 10px;
+}
+footer {
+    clear: both;
+    position: relative;
+    height: 500px;
+    margin-top: -200px;
+}
