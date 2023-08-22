@@ -18,3 +18,18 @@
 .make-round{
     border-radius: 2%;
 }
+
+.work-experience{
+    padding: 0 30px;
+    margin-top: 50px;
+    background-color: aquamarine;
+}
+
+.education{
+    background-color: greenyellow;
+    margin-top: 50px;
+    display: flex;
+    row-gap: 30px;
+    align-items:center;
+    flex-direction: column;
+}

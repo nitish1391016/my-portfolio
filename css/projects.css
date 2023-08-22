@@ -1,3 +1,4 @@
+
 body{
     width: 100%;
     margin: 0;
@@ -20,4 +21,30 @@ footer {
     position: relative;
     height: 500px;
     margin-top: -200px;
+}
+
+
+/* contactme css */
+
+.contact_me_content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: 13px;
+    
+
+}
+a{
+    text-decoration: none;
+}
+.contact_me_content  div {
+    width: 200px;
+    height: 50px;
+    background-color: #94ADD7;
+    border: solid black 2px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
